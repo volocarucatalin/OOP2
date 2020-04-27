@@ -1,4 +1,4 @@
-package CatalinTEst;
+package catalin;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

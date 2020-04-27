@@ -1,4 +1,4 @@
-package CatalinTEst;
+package catalin;
 
 public class Person  implements Behavior {
     public String present(){
